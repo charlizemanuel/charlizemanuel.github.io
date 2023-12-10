@@ -11,7 +11,7 @@ My GitHub page is http://github.com/charlizemanuel.
 * Lab 12
 
     Lab 12, part 1 was one of my favorite projects I did because it was 
-    really interesting learning about how gifs and images really are made.
+    interesting learning about how gifs and images really are made.
     I was able to write functions and code that were able to create images
     and gifs that were animated. It is really interesting learning about how
     everything we see on our computers and our phones are being made with
